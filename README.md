@@ -2,7 +2,8 @@
 
 ## Introduction
 
-This project is created with React.js which also consumes react-chartjs 2 library and Material UI framework. 
+This project is created with React.js which also consumes react-chartjs 2 library and Material UI framework. \
+Link : https://prachi95.github.io/Covid-Tracker-App/
 
 
 ## Preview
